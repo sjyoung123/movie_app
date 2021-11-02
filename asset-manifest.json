@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/newTodoWebsite/movie_app/static/css/main.9b1e7e96.chunk.css",
-    "main.js": "/newTodoWebsite/movie_app/static/js/main.30fdbfbb.chunk.js",
-    "main.js.map": "/newTodoWebsite/movie_app/static/js/main.30fdbfbb.chunk.js.map",
-    "runtime-main.js": "/newTodoWebsite/movie_app/static/js/runtime-main.080b18a3.js",
-    "runtime-main.js.map": "/newTodoWebsite/movie_app/static/js/runtime-main.080b18a3.js.map",
-    "static/js/2.728b37eb.chunk.js": "/newTodoWebsite/movie_app/static/js/2.728b37eb.chunk.js",
-    "static/js/2.728b37eb.chunk.js.map": "/newTodoWebsite/movie_app/static/js/2.728b37eb.chunk.js.map",
-    "index.html": "/newTodoWebsite/movie_app/index.html",
-    "static/css/main.9b1e7e96.chunk.css.map": "/newTodoWebsite/movie_app/static/css/main.9b1e7e96.chunk.css.map",
-    "static/js/2.728b37eb.chunk.js.LICENSE.txt": "/newTodoWebsite/movie_app/static/js/2.728b37eb.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app/static/css/main.9b1e7e96.chunk.css",
+    "main.js": "/movie_app/static/js/main.30fdbfbb.chunk.js",
+    "main.js.map": "/movie_app/static/js/main.30fdbfbb.chunk.js.map",
+    "runtime-main.js": "/movie_app/static/js/runtime-main.aad88e96.js",
+    "runtime-main.js.map": "/movie_app/static/js/runtime-main.aad88e96.js.map",
+    "static/js/2.728b37eb.chunk.js": "/movie_app/static/js/2.728b37eb.chunk.js",
+    "static/js/2.728b37eb.chunk.js.map": "/movie_app/static/js/2.728b37eb.chunk.js.map",
+    "index.html": "/movie_app/index.html",
+    "static/css/main.9b1e7e96.chunk.css.map": "/movie_app/static/css/main.9b1e7e96.chunk.css.map",
+    "static/js/2.728b37eb.chunk.js.LICENSE.txt": "/movie_app/static/js/2.728b37eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.080b18a3.js",
+    "static/js/runtime-main.aad88e96.js",
     "static/js/2.728b37eb.chunk.js",
     "static/css/main.9b1e7e96.chunk.css",
     "static/js/main.30fdbfbb.chunk.js"
